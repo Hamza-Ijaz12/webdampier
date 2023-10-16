@@ -1675,3 +1675,8 @@ figure.dotted-bg {
 .txt-justify{
   text-align: justify;
 }
+
+/* Blog-Image handleing */
+.blog-img{
+  height: 18em;
+}
